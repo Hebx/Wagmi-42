@@ -2,8 +2,10 @@
 
 # Vision
 Onboarding developers to blockChain Space by quality web3 education.
-incentivize mentor in the web3 ecosystem to contribute to the space and get rewards for it, using tokenomics to pay out streaming royalties to content creator for education purpose
-apprentice subscribe with superfluid payment streams. Based off they interests, mentors are given distribution shares of the subscription revenue which get distributed out using Superfluid's IDA
+
+Incentivize mentor in the web3 ecosystem to contribute to the space and get rewards for it, using tokenomics to pay out streaming royalties to content creator for education purpose.
+
+Apprentice subscribe with superfluid payment streams. Based off they interests, mentors are given distribution shares of the subscription revenue which get distributed out using Superfluid's IDA.
 
 # Roadmap
 
