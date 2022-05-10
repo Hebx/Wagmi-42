@@ -15,7 +15,7 @@ const localProvider = new providers.StaticJsonRpcProvider(
   'http://localhost:8545'
 )
 
-const ROPSTEN_CONTRACT_ADDRESS = '0x6b61a52b1EA15f4b8dB186126e980208E1E18864'
+const ROPSTEN_CONTRACT_ADDRESS = '0x63DB480bDA35b5D9AD029cDd0829fc5AC75e6261'
 
 /**
  * Prop Types
@@ -140,14 +140,14 @@ function HomeIndex(): JSX.Element {
   return (
     <Layout>
       <Heading as="h1" mb="8">
-        Next.js Ethereum Starter
+        Wagmi42
       </Heading>
       <Button
         as="a"
         size="lg"
         colorScheme="teal"
         variant="outline"
-        href="https://github.com/ChangoMan/nextjs-ethereum-starter"
+        href="https://github.com/hebx/wagmi-42"
         target="_blank"
         rel="noopener noreferrer"
       >
