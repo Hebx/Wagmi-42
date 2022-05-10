@@ -3,12 +3,12 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "dev": "yarn workspace nextjs-ethereum-starter-frontend dev",
-    "build": "yarn workspace nextjs-ethereum-starter-frontend build",
-    "start": "yarn workspace nextjs-ethereum-starter-frontend start",
-    "chain": "yarn workspace nextjs-ethereum-starter-hardhat chain",
-    "deploy": "yarn workspace nextjs-ethereum-starter-hardhat deploy",
-    "compile": "yarn workspace nextjs-ethereum-starter-hardhat compile"
+    "dev": "yarn workspace wagmi-42-frontend dev",
+    "build": "yarn workspace wagmi-42-frontend build",
+    "start": "yarn workspace wagmi-42-frontend start",
+    "chain": "yarn workspace wagmi-42-hardhat chain",
+    "deploy": "yarn workspace wagmi-42-hardhat deploy",
+    "compile": "yarn workspace wagmi-42-hardhat compile"
   },
   "workspaces": {
     "packages": [
